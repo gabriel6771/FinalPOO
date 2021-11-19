@@ -7,6 +7,11 @@ public class Oftalmologo {
     private List<Paciente> pacientes;
 
 
+    public Paciente revisarPaciente (String nombre, int edad){
+        if
+    }
+
+
 
 
 }
